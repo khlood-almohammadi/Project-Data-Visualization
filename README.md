@@ -56,3 +56,44 @@ B - the manufacturer's :
 3) What are the manufacturer's statistics after 1/1/2000?
 
 4) Based on the statistics, what are the expectations of increased growth between companies?
+
+
+C- The Model :
+
+1) From 1976 to 2008 what are the three most popular models among airlines ?!
+
+2) What are the models most used in the aviation industry?
+
+3) What are the models that were relied upon before 1/1/2000?
+
+4) What are the models adopted in the aviation industry after 1/1/2000?
+D- Type :
+
+1) What was the most popular type 1976-2008?
+
+2) What is the most common type 1976-2000?
+
+3) What is the most common type 2000-2001?
+
+4) What are the strongest manufacturers of the Corporation type ?!
+
+5) What are the strongest manufacturers of the Individual type ?!
+E- Engine Type :
+
+1) What are the most popular types of engines in 1976-2008?
+
+2) What types of engines were used in 1976-2000?
+
+3) Comparison of Demand for Engine Types in the "Pre-2000 and Post-2000" Periods :
+F- Manufacturer BOEING :
+
+1) What are the most active years?
+
+2) What is the growth of the company ?! Is it a positive or negative relationship ?
+
+3) What are the most used models?
+
+4) What are the most common engines?
+
+5) What is the most effective month?
+
