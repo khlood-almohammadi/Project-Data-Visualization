@@ -113,3 +113,21 @@ F- Manufacturer BOEING :
 
 6) The percentage of activity witnessed in 2004 = 10%, and it was an increase of 3% over the year 2007
 
+
+## Before 1/1/2000:
+
+1) The aviation industry has been heavily dependent on the DC-9-82 (MD-82), 118 aircraft
+
+2) The second most common model is the 737-3H4, which was applied to 106 aircraft
+
+3) The third most common model is the MD-88, which has been applied to 91 different aircraft
+## After 1/1/200:
+
+1) The most common model is the CL-600-2B19, it has been applied to 319 aircraft
+
+2) In second place the 737-7H4 model, it was applied to 244 aircraft
+
+3) In third place, the A320-232 model was applied to 204 aircraft
+Perceptions:
+
+We must note that the model industry has been greatly affected by the progress of the years and the development of technology and heavy engines, so it cannot be judged at all that the models in the years 2000 are the best or that the models in the time of the 90's were ok! Science has advanced and technology has evolved a lot after the millennium years, so it is not fair to compare which is better now because models are not static. They have changed with the change of years.
