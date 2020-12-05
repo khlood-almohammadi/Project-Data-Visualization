@@ -97,3 +97,19 @@ F- Manufacturer BOEING :
 
 5) What is the most effective month?
 
+
+
+# Conclusions in general :
+
+1) We note that the trips began in 1976
+
+2) Data recorded from 1976 to 2008
+
+3) The most active year in air travel is 2004, when 454 different flights were witnessed
+
+4) Compared to the years of the millennium, 1999 and 1998 were good years with significant air traffic activity
+
+5) Relative to the increase in the aviation industry, we notice a direct change in the number of years and an increase in flights.
+
+6) The percentage of activity witnessed in 2004 = 10%, and it was an increase of 3% over the year 2007
+
