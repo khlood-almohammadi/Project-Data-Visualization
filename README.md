@@ -113,7 +113,7 @@ F- Manufacturer BOEING :
 
 6) The percentage of activity witnessed in 2004 = 10%, and it was an increase of 3% over the year 2007
 
-
+.. 
 ## Before 1/1/2000:
 
 1) The aviation industry has been heavily dependent on the DC-9-82 (MD-82), 118 aircraft
