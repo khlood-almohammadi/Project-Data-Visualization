@@ -59,7 +59,7 @@ B - the manufacturer's :
 
 4) Based on the statistics, what are the expectations of increased growth between companies?
 
-
+..
 
 C- The Model :
 
