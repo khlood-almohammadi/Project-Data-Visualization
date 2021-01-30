@@ -9,7 +9,7 @@ we will use Python visualization libraries to systematically explore a selected 
 ## 2) In the second part :
 
 we will produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in our selected dataset. The primary method of conveying your findings will be through transforming our exploratory visualizations from the first part into polished, explanatory visualizations.
- ..
+
 
 ## 3) What do I need to install?
 
