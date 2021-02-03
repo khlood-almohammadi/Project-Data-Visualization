@@ -1,7 +1,6 @@
 # Project-Data-Visualization
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. 
  
-..
 
 ## 1) In the first part:
 we will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. 
