@@ -31,7 +31,7 @@ Supplement statistics with visualizations to build understanding of data.
 Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing we to understand distributions of variables and relationships between features.
 - Use design principles to create effective visualizations for communicating findings to an audience.
     
-    
+  ..  
 
 ## The following questions will be discussed:
 A - for " years - months ":
