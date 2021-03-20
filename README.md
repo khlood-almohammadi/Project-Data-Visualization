@@ -135,4 +135,5 @@ F- Manufacturer BOEING :
 Perceptions:
 
 
+
 We must note that the model industry has been greatly affected by the progress of the years and the development of technology and heavy engines, so it cannot be judged at all that the models in the years 2000 are the best or that the models in the time of the 90's were ok! Science has advanced and technology has evolved a lot after the millennium years, so it is not fair to compare which is better now because models are not static. They have changed with the change of years.
