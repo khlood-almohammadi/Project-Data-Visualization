@@ -11,6 +11,7 @@ we will use Python visualization libraries to systematically explore a selected 
 we will produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in our selected dataset. The primary method of conveying your findings will be through transforming our exploratory visualizations from the first part into polished, explanatory visualizations.
 
 
+
 ## 3) What do I need to install?
 
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that we use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
